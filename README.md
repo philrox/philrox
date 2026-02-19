@@ -6,7 +6,7 @@ I build to scratch my own itch and share the results.
 
 ## Current Projects
 
-- ⚖️ **[ris-cli](https://github.com/philrox/ris-cli)** — CLI for Austria's legal information system; search and retrieve federal law from your terminal
+- ⚖️ **[risgo](https://github.com/philrox/risgo)** — CLI for Austria's legal information system; search and retrieve federal law from your terminal
 - 🔌 **[ris-mcp-ts](https://github.com/philrox/ris-mcp-ts)** — MCP server that gives AI agents access to Austrian federal laws, state laws, and court decisions
 
 ## Get in touch
