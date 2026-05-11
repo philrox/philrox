@@ -9,7 +9,6 @@ I build to scratch my own itch and share the results.
 
 - [Blog](https://www.resultsbymagic.com/)
 - [Twitter/X](https://x.com/philrox_)
-- [Bluesky](https://bsky.app/profile/philrox.bsky.social)
 
 
 ## Filling the Grid
